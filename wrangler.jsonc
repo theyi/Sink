@@ -10,7 +10,6 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "node_compat": true,
   "keep_vars": true,
   "upload_source_maps": true,
   "ai": {
